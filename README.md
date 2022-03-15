@@ -1,3 +1,14 @@
+
+<h1>PHILIPS FULLSTACK DEV WEEK</h1>
+
+Projeto desenvolvido durante o progresso do evento Philips Fullstack Dev Week.
+Conduzido pela equipe de professores da DIO.
+
+Este projeto tem como objetivo integrar o Back End cosntruído com Java com auxilio do Framework SpringBoot para realizar consulta aos dados inseridos no Banco de Dados(relacional, nesta situação).
+
+<h2>Tecnologias envolvidas na construção do Front End</h2>
+
+
 # Angulardevweek
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
@@ -25,3 +36,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+---------------------------------
+
+"Desafie seus limites!"
+🚀🚀🚀
